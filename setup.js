@@ -9,3 +9,8 @@ function doSomeMore() {
 function doSomeMoreAgain() {
   console.log("as requested i'm doing some more");
 }
+
+function doFinalMore() {
+  console.log("And the end of it");
+}  
+
